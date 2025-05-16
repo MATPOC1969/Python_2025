@@ -1,3 +1,5 @@
+"""Написать программу, которая будет запрашивать у пользователя его имя и возраст,
+а затем выводить приветствие “Привет [имя]! Тебе [возраст]”."""
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 
